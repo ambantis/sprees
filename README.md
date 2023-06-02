@@ -44,7 +44,7 @@ If you are a **maintainer** of an OSS project and would like to mentor someone d
 | Time               | 9th June at 17:00-21:00 PST                                                                     |
 | Location           | [Tubi TV](https://tubitv.com): 315 Montgomery St, 16th Floor, San Francisco, 94104              |
 | Event Registration | <https://airtable.com/shrwSI11zJHmh7CkZ>                                                        |
-| Notes              | Registration @Tubi (required for Tubi visitors): [Tubi - SF Guest Form](https://docs.google.com/forms/d/e/1FAIpQLScU-RIAqfBfnQRQAyfYX-eOA_hujkCLJ-jrK_swLv0RfrL5rg/viewform)
+| Notes              | Registration @Tubi (except Tubi employees): [Tubi - SF Guest Form](https://docs.google.com/forms/d/e/1FAIpQLScU-RIAqfBfnQRQAyfYX-eOA_hujkCLJ-jrK_swLv0RfrL5rg/viewform)
 | Bring              | Laptop + Power Cord                                                                             |
 
 ### Projects
